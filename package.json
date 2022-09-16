@@ -1,0 +1,19 @@
+{
+  "name": "creating-first-server-devtown",
+  "version": "1.0.0",
+  "description": "Our first node.js server",
+  "main": "server.js",
+  "scripts": {
+    "start": "noder server.js" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Beast1610/creating-first-server-devtown.git"
+  },
+  "author": "Harsan Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Beast1610/creating-first-server-devtown/issues"
+  },
+  "homepage": "https://github.com/Beast1610/creating-first-server-devtown#readme"
+}
