@@ -1,7 +1,7 @@
 const http = require('http');
 const { listenerCount } = require('process');
 
-const port = 8081;
+const port = 8081; //local port number
 
 http
     .createServer((request, response) => {
@@ -13,4 +13,4 @@ http
         console.log(`Nodejs server started on port ${port}`);
     });
 
-// http://localhost:8081
+// http://localhost:8081 
